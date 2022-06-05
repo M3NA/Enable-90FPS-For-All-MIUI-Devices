@@ -1,6 +1,6 @@
-id=Enabled_Features_Alioth.
-name=Enable 90hz for Alioth
-version=v1.0
-versionCode=1.0
-author=Mena Maged
-description=Enable 90Hz 
+id=Enable_90Hz_For_Xiaomi
+name=Enable 90hz for All xiaomi
+version=v2.6
+versionCode=21
+author=MenaMaged
+description=Enable 90Hz for all xiaomi supported devices  
